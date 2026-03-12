@@ -84,6 +84,7 @@
 | [07-Environment Configuration](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra07-环境配置.md)            | Environment Configuration |
 | [08-How to Write Good Skills](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra08-如何写出好的Skill.md) | Skill writing best practices |
 | [09-Agent Development Pitfalls and Practical Lessons](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra09-Agent应用开发实践踩坑与经验分享.md) | Practical lessons and pitfalls from building a Code Agent |
+| [10-Two-Day Starter Study Plan](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra10-两天入门学习计划.md) | Two-day interview-focused learning plan |
 
 ### PDF Version Download
 
@@ -180,4 +181,3 @@ We are an open-source community and welcome any form of contribution!
 ## 📜 Open Source License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-

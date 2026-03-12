@@ -88,6 +88,7 @@
 | [07-环境配置](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra07-环境配置.md)                | 环境配置 |
 | [08-如何写出好的Skill](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra08-如何写出好的Skill.md) | Skill 写作最佳实践 |
 | [09-Agent应用开发实践踩坑与经验分享](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra09-Agent应用开发实践踩坑与经验分享.md) | Code Agent 应用开发踩坑与经验总结 |
+| [10-两天入门学习计划](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra10-两天入门学习计划.md) | 两天吃透项目的面试向学习规划 |
 
 ### PDF 版本下载
 
